@@ -1,0 +1,31 @@
+
+***********************************The postFix Expression + The Result of Evaluate*************
+
+The postFix Expression:2 0 / 
+
+ The operataion is not Valid according To Math
+
+The postFix Expression:0 2 / 
+
+the result After Evaluating=0
+
+The postFix Expression:3 5 5 5 2 - + * + 
+
+the result After Evaluating=43
+
+The postFix Expression:1 1 1 1 8 * + + + 
+
+the result After Evaluating=11
+
+The postFix Expression:5 5 5 5 * * * 3 % 
+
+the result After Evaluating=1
+
+The postFix Expression:3 5 5 2 + * + 
+
+the result After Evaluating=38
+
+The postFix Expression:2 2 2 - % 
+
+ The operataion is not Valid according To Math
+
